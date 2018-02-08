@@ -72,7 +72,7 @@ drops.on.death: false
 player.drop.item: true
 
 # This is the refill chests' switch. You can decide to refill chests or not.
-chest.refill: true
+chest.refill: false
 
 # If "chest.refill" (the above option) is "true" :
 # chests will be refilled on game start & , according to this option , each N seconds from the start.
